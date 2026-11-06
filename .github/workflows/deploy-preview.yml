@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: celsomartins251/cifra-estudio
-          ref: fix/cifra-estudio-estabilidade-layout-soundfont
+          ref: test/disable-playback-visuals
           path: site
 
       - name: Configurar GitHub Pages
