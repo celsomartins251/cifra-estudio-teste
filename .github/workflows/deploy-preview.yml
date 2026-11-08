@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: celsomartins251/cifra-estudio
-          ref: test/disable-playback-visuals
+          ref: test/airegin-jazz-preview
           path: site
 
       - name: Configurar GitHub Pages
