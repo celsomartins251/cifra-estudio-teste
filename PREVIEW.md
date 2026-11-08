@@ -12,4 +12,4 @@ Ritmos adicionados para avaliação:
 
 Os padrões foram adaptados ao gerador de acompanhamento existente: bateria, baixo e piano respondem às cifras e ao andamento. Os timbres continuam sendo os já utilizados pelo Cifra Estúdio. Esta publicação é exclusivamente de teste; a versão oficial não foi alterada.
 
-Commit de origem: 4e364ff23164805202e6d85a68385875a5be6ade
+Commit de origem: 728fc581376e4143711d12ebc6493d62ab652416
